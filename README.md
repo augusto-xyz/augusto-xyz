@@ -1,10 +1,13 @@
 # 👋 Hola, soy Augusto Doldán  
 
-💻 **Analista de Sistemas** 
-🚀 **Programador Full-Stack con experiencia en Web y Mobile**  
-⚖️ **Abogado especializado en IT**  
- 
+💻 **Analista de Sistemas**
 
+🚀 **Programador Full-Stack con experiencia en Web y Mobile**  
+
+⚖️ **Abogado especializado en IT**  
+
+ 
+> Actualmente trabajo como frontender en el sector bancario, con experiecnia en startups y fintechs.
 ---
 
 Mi camino en tecnología empezó desde una perspectiva distinta: como abogado entendí que los contratos son la base de cualquier relación humana.  
@@ -13,7 +16,6 @@ Cuando descubrí los **smart contracts** vi el puente perfecto entre el derecho 
 Hoy llevo años desarrollando software en entornos complejos, aplicando **buenas prácticas, clean code, modelado y diversos patrones de diseño**.  
 Mi formación como **Analista de Sistemas** me permite unir la teoría con la práctica: pienso en escalabilidad, seguridad y producto desde el día uno.  
 
-Actualmente trabajo en el sector bancario, con mucha experiecnia en startups y fintechs.
 ---
 
 ## 💻 Experiencia técnica  
